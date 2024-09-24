@@ -1,4 +1,4 @@
-# UT1E01 - Ejemplo CGI
+# UT01E01 - Ejemplo CGI
 
 Crear una pequeña aplicación CGI que ilustre la creación de una web dinámica.
 
