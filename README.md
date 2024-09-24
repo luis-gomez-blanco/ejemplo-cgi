@@ -1,6 +1,16 @@
 # UT01E01 - Ejemplo CGI
 
-Crear una pequeña aplicación CGI que ilustre la creación de una web dinámica.
+Crear una pequeña aplicación CGI que ilustre la creación de una web dinámica, relacionando los contenidos con aquellos vistos en la unidad de trabajo.
+
+Se debe reflexionar, al menos, sobre los siguientes aspectos:
+
+* ¿Qué es un CGI?
+* ¿Qué modelo de arquitectura presenta tu trabajo?
+* ¿Qué ventajas o inconvenientes proporciona tu página web dinámica frente a una estática?
+* ¿Qué código se ejecuta en cliente y qué código en el servidor?
+* Emplear parámetros lógicos para la evaluación de una herramienta o framework de programación: por ejemplo, integra GIT? Se puede extender mediante plugins? Permite integración del propio servidor web (Apache)? Posee un soporte adecuado por parte de la comunidad respecto a su extensión y soporte? Coste? Etc.
+
+La extensión máxima será de 10 páginas, incluyendo la portada, el índice y la bibliografía.
 
 Para ejecutar CGI, debes asegurarte de que la extensión _cgi_module_ esté habilitada en la configuración de Apache. Para ello, sigue los siguientes pasos:
 
